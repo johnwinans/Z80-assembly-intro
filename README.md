@@ -1,6 +1,6 @@
 # Z80-assembly-intro
 
-Tutorial example Z80 tutorial programs assembled and executed using a simulator on a Raspberry PI.
+Tutorial example Z80 programs assembled and executed using a simulator on a Raspberry PI.
 
 # Setup instructions
 
