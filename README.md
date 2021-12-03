@@ -11,7 +11,8 @@ This requires a basic setup on a Raspberry PI.  I use Raspbian and set mine up a
 
 The assembler and simulator can be installed with these commands:
 
-  sudo apt install z80asm
-  sudo apt install sdcc
-  sudo apt install sdcc-ucsim
-
+```
+sudo apt install z80asm
+sudo apt install sdcc
+sudo apt install sdcc-ucsim
+```
